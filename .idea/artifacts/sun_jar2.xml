@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sun:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/sun_jar2</output-path>
+    <root id="archive" name="NumCompare.jar">
+      <element id="module-output" name="sun" />
+    </root>
+  </artifact>
+</component>
