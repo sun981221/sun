@@ -11,7 +11,7 @@ import java.util.Arrays;
  */
 public class quickSort2 {
     public static void main(String[] args) {
-        int[] arr = {1, 3, 9, 4, 5, 2, 6, 7};
+        int[] arr = {1, 3, 9, 4, 5, 2, 6, 7,1};
         System.out.println(Arrays.toString(quickSort2(arr, 0, arr.length - 1)));
 
     }
